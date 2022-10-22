@@ -1,0 +1,129 @@
+4  pwd
+    5  clear
+    6  pwd
+    7  cd D:\Users\Аслан\Desktop\программирование\PythonDanila
+    8  cd /d/Users/Аслан/Desktop/программирование/PythonDanila
+    9  mkdir Tmp-Project
+   10  cd Tmp-Project
+   11  git init
+   12  git add helloworld.py
+   13  cp /d/Users/Аслан/Desktop/программирование/PythonDanila/ML_speedrun/number_reader/main.py homework.py
+   14  git add helloworld.py
+   15  git add homework.py
+   16  git commit -m "no homo"
+   17  git push
+   18  git push https://github.com/CodeForse/pls-don-t-look.git
+   19  git status
+   20  git clone https://github.com/CodeForse/Skill-Measurement-
+   21  cd Skill-Measurement
+   22  cd Skill-Measurement-
+   23  mv . /d/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project
+   24  mv parsing-api.py /d/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project
+   25  git ls-files
+   26  mv parsing_api.py /d/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project
+   27  git commit . -m "added repository and pulled file"
+   28  cat parsing.py
+   29  nano parsing.py
+   30  clear
+   31  git commit -m "reducted parsing.py with nano"
+   32  git restore parsing.py
+   33  git commit -m "reducted parsing.py with nano"
+   34  nano parsing.py
+   35  git add parsing.py
+   36  git commit -m "reducted parsing.py with nano"
+   37  git push
+   38  sudo dnf install dh-autoreconf cur1-deve1 expat-deve1 gettext-deve1 \ openss1-deve1 per1-deve1 zlib-deve1 history
+   39  history
+   40  cp    29  nano parsing.py
+   41     30  clear
+   42     31  git commit -m "reducted parsing.py with nano"
+   43     32  git restore parsing.py
+   44     33  git commit -m "reducted parsing.py with nano"
+   45     34  nano parsing.py
+   46  cp
+   47  cp /D/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project/parsing_ap
+   48  cp /D/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project/parsing_ap
+   49  clear
+   50  ls .
+   51  cd ..
+   52  ls .
+   53  cp parsing_api.py .\Skill-Measurement\parsing_api.py
+   54  cp parsing_api.py ./Skill-Measurement/parsing_api.py
+   55  cp parsing_api.py ./Skill-Measurement-/parsing_api.py
+   56  ls .
+   57  ls .
+   58  rm .Skill-Measurementparsing_api.py
+   59  git commit -m 'вернул в скилл мезуремент'
+   60  git add .
+   61  git commit -m 'вернул в скилл мезуремент и еще че-то'
+   62  git push
+   63  ls .
+   64  ../
+   65  ../
+   66  ..pwd
+   67  pwd
+   68  cd ..
+   69  cd Skill-Measurement-
+   70  cp /D/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project/parsing_api.py parsing_api.py
+   71  git add parsing_api.py
+   72  git commit -m "return back parsing with hidden api"
+   73  git push https://github.com/CodeForse/Skill-Measurement-
+   74  git origin
+   75  git Origin
+   76  git --help
+   77  git remote -v
+   78  history
+   79  git push
+   80  git pull
+   81  git add parsing_api.py
+   82  git commit -m "added parsing with hidden api back"
+   83  cd ..
+   84  cd Skill-Meaurement
+   85  cd Skill-Meaurement-
+   86  cd Skill-Measurement-
+   87  git add parsing_api.py
+   88  git status
+   89  git pull https://github.com/CodeForse/Skill-Measurement-
+   90  git pull
+   91  git status
+   92  clear
+   93  git init
+   94  git pull
+   95  git status
+   96  git pull origin/main
+   97  git pull origin main
+   98  git pull -f origin main
+   99  git pull https://github.com/CodeForse/Skill-Measurement-.git
+  100  pwd
+  101  cd /D/Users/Аслан/Desktop/программирование/PythonDanila
+  102  rm -rf Skill-Measurement-
+  103  ls -f
+  104  ls -l
+  105  git clone https://github.com/CodeForse/Skill-Measurement-.git
+  106  cd Skill-Measurement-/
+  107  ls
+  108  ls -l
+  109  pc /D/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project/parsing_api.py parsing_api.py
+  110  cp /D/Users/Аслан/Desktop/программирование/PythonDanila/Tmp-Project/parsing_api.py parsing_api.py
+  111  ls -l
+  112  git add .
+  113  git commit -m "return back parsing with hidden api"
+  114  git push
+  115  cd ..
+  116  cd Tmp-Project/
+  117  ls -l
+  118  git remote -v
+  119  git remote -v
+  120  git origin
+  121  git status
+  122  git init https://github.com/CodeForse/pls-don-t-look.git
+  123  git init
+  124  git add .
+  125  git status
+  126  ls -l
+  127  git commit -m "moved some files cloned rep"
+  128  git push
+  129  git push
+  130      git push <name>
+  131  git push https://github.com/CodeForse/pls-don-t-look.git
+  132  history
