@@ -14,10 +14,9 @@ def set_invitation_htmls(couples:List[tuple]):
                 </html>""".format(couple[0],couple[1])  
             f.write(message)
 
-# set_invitation_htmls([('Mr. Smith', 'Mrs. Smith')])
+
 
 def open_files():
     
     for filename in os.listdir('./files/'):
         webbrowser.open('file://'+os.path.realpath('./files/'+filename))
-# open_files()
